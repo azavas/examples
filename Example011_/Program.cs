@@ -1,4 +1,5 @@
-﻿void FillArray(int[] collecnion)
+﻿
+void FillArray(int[] collecnion)
 {
     int length = collecnion.Length;
     int index = 0;
@@ -49,4 +50,3 @@ Console.WriteLine();
 
 int pos = IndexOf(array, 4);
 Console.WriteLine(pos);
-
